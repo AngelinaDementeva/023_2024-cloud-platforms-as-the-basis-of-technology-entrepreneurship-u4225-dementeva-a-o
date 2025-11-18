@@ -1,4 +1,4 @@
-# Лабораторная работа №0
+# Лабораторная работа №1
 
 **University:** [ITMO University](https://itmo.ru/ru/)  
 **Faculty:** [FICT](https://fict.itmo.ru)  

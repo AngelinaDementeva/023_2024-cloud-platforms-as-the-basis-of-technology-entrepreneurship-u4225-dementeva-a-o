@@ -31,6 +31,7 @@ cloud-platforms-as-the-basis
 ```
 adementeva-lab3-bucket
 ```
+![1](../lab3/Снимок экрана 2025-11-24 в 20.11.17.png)
 
 4. Регион выбрала **europe-west1 (Belgium)**.
 5. Storage Class оставила **Standard**.
@@ -65,6 +66,8 @@ dir
 ```
 adementeva-lab3-bucket/dir/<имя_файла>.jpg
 ```
+![2](../lab3/Снимок экрана 2025-11-24 в 20.11.03.png)
+
 
 ---
 
@@ -107,5 +110,6 @@ allUsers — Reader
 ```
 https://storage.googleapis.com/adementeva-lab3-bucket/dir/<имя_файла>.jpg
 ```
+![3](../lab3/Снимок экрана 2025-11-24 в 20.10.48.png)
 
 Открыла ссылку в новом браузере (без авторизации) — изображение успешно загрузилось → значит публичный доступ настроен корректно.

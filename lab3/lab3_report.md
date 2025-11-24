@@ -31,7 +31,7 @@ cloud-platforms-as-the-basis
 ```
 adementeva-lab3-bucket
 ```
-![1](../lab3/Снимок экрана 2025-11-24 в 20.11.17.png)
+![](Снимок экрана 2025-11-24 в 20.11.17.png)
 
 4. Регион выбрала **europe-west1 (Belgium)**.
 5. Storage Class оставила **Standard**.
